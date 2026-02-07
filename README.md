@@ -1,4 +1,4 @@
-# Introduction to GitHub
+https://github.com/Variny/skills-introduction-to-githubo/actions/workflows/0-start-exercise.yml/badge.svg# Introduction to GitHub
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
